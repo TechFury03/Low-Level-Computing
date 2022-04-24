@@ -13,3 +13,7 @@ For the course Low Level Computing I used a Attiny-85 microcontroller to read th
 - Displays values (temperature in Celsius and Fahrenheid, airpressure in kPascal) on 8x32 Dot-Matrix display (no libraries used)
 - Protected from incorrect connection to powersupply
 - Protected against short power failures (simulated using PWM from Arduino Uno)
+
+**Demovideo**
+
+https://youtu.be/Y2DHPWWYPcU
